@@ -39,11 +39,16 @@ async function getContent() {
 
 async function saveContent(data) {
   const store = getStore(STORE_NAME);
-  // Optional: keep a timestamped backup
-  const existing = await store.get(BLOB_KEY, { type: 'json' });
-  if (existing) {
-    const stamp = new Date().toISOString().replace(/[:.]/g, '-');
-    await store.setJSON(`backups/${stamp}`, existing);
+  // Optional: keep a timestamped backup. Wrapped in try/catch so a backup
+  // failure (e.g. nested-key restrictions) doesn't block the actual save.
+  try {
+    const existing = await store.get(BLOB_KEY, { type: 'json' });
+    if (existing) {
+      const stamp = new Date().toISOString().replace(/[:.]/g, '-');
+      await store.setJSON(`backup-${stamp}`, existing);
+    }
+  } catch (backupErr) {
+    console.warn('Backup failed (continuing with save):', backupErr.message);
   }
   await store.setJSON(BLOB_KEY, data);
 }
@@ -92,10 +97,17 @@ exports.handler = async (event) => {
         body: JSON.stringify({ ok: true, savedAt: new Date().toISOString() })
       };
     } catch (err) {
+      console.error('SAVE FAILED:', err);
+      console.error('Stack:', err.stack);
       return {
         statusCode: 500,
         headers: cors,
-        body: JSON.stringify({ error: 'Failed to save', detail: err.message })
+        body: JSON.stringify({
+          error: 'Failed to save',
+          detail: err.message,
+          code: err.code || err.name,
+          hint: 'Check Netlify Functions logs for stack trace'
+        })
       };
     }
   }

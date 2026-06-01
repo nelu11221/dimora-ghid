@@ -6,7 +6,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { getStore } = require('@netlify/blobs');
+const { getStore, connectLambda } = require('@netlify/blobs');
 const { verifyToken, getTokenFromEvent } = require('./_auth');
 
 const STORE_NAME = 'dimora-ghid';
@@ -54,6 +54,10 @@ async function saveContent(data) {
 }
 
 exports.handler = async (event) => {
+  // Required for @netlify/blobs to work in classic Lambda handler mode.
+  // Wires the per-request Netlify context (siteID, token) into the SDK.
+  connectLambda(event);
+
   if (event.httpMethod === 'OPTIONS') {
     return { statusCode: 204, headers: cors, body: '' };
   }

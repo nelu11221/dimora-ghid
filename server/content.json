@@ -1,0 +1,219 @@
+{
+  "contact": {
+    "phone": "+393280661800",
+    "phoneDisplay": "+39 328 066 1800",
+    "address": "Florence Countryside, Tuscany",
+    "wifiNetwork": "dimora_del_tramonto"
+  },
+  "translations": {
+    "navHome": { "en": "Home", "it": "Home", "de": "Startseite" },
+    "navArrival": { "en": "Arrival", "it": "Arrivo", "de": "Ankunft" },
+    "navHouse": { "en": "House Info", "it": "Info Casa", "de": "Hausinfo" },
+    "navOutdoor": { "en": "Outdoor", "it": "Esterno", "de": "Außenbereich" },
+    "navRules": { "en": "Guidelines", "it": "Regole", "de": "Hausregeln" },
+    "navLocal": { "en": "Local Guide", "it": "Guida Locale", "de": "Reiseführer" },
+    "assistance": { "en": "Assistance", "it": "Assistenza", "de": "Hilfe" },
+    "navGuide": { "en": "Guest Guide", "it": "Guida Ospiti", "de": "Gästeführer" },
+    "heroTagline": { "en": "A private retreat in the Florence countryside", "it": "Un rifugio privato nella campagna di Firenze", "de": "Ein privater Rückzugsort in der Florentiner Landschaft" },
+    "heroWelcome": { "en": "Welcome to Dimora del Tramonto Toscano", "it": "Benvenuti a Dimora del Tramonto Toscano", "de": "Willkommen in der Dimora del Tramonto Toscano" },
+    "heroSubtitle": { "en": "A space designed for comfort, quiet living and slow moments in the Florence countryside.", "it": "Uno spazio pensato per il comfort, la vita tranquilla e i momenti lenti nella campagna di Firenze.", "de": "Ein Ort, geschaffen für Komfort, ruhiges Leben und langsame Momente in der Florentiner Landschaft." },
+    "heroScroll": { "en": "Explore the Guide", "it": "Esplora la Guida", "de": "Zum Reiseführer" },
+    "arrivalLabel": { "en": "Arrival", "it": "Arrivo", "de": "Ankunft" },
+    "arrivalTitle": { "en": "Effortless", "it": "Senza", "de": "Mühelose" },
+    "arrivalTitleAccent": { "en": "Check-in", "it": "Pensieri", "de": "Anreise" },
+    "arrivalText": { "en": "Before arrival, guests will receive all access details and gate codes for a smooth and independent check-in experience.", "it": "Prima dell'arrivo, gli ospiti riceveranno tutti i dettagli di accesso e i codici del cancello per un check-in fluido e indipendente.", "de": "Vor der Ankunft erhalten die Gäste alle Zugangsdaten und Torcodes für einen reibungslosen und unabhängigen Check-in." },
+    "houseInfoLabel": { "en": "House Information", "it": "Informazioni sulla Casa", "de": "Hausinformationen" },
+    "houseInfoTitle": { "en": "Everything You Need", "it": "Tutto Ciò Che Serve", "de": "Alles Was Sie" },
+    "houseInfoTitleAccent": { "en": "to Know", "it": "da Sapere", "de": "Wissen Müssen" },
+    "houseInfoIntro": { "en": "To help you enjoy a comfortable and effortless stay, you will find below all the essential information about the house and outdoor spaces.", "it": "Per aiutarti a goderti un soggiorno comodo e senza pensieri, troverai qui di seguito tutte le informazioni essenziali sulla casa e gli spazi esterni.", "de": "Damit Sie einen komfortablen und entspannten Aufenthalt genießen können, finden Sie hier alle wichtigen Informationen zum Haus und den Außenbereichen." },
+    "outdoorLabel": { "en": "Outdoor Living", "it": "Vita all'Aperto", "de": "Leben im Freien" },
+    "outdoorTitle": { "en": "Slow Moments", "it": "Momenti Lenti", "de": "Langsame Momente" },
+    "outdoorTitleAccent": { "en": "Outdoors", "it": "all'Aperto", "de": "im Freien" },
+    "momentsLabel": { "en": "Our Favorites", "it": "I Nostri Preferiti", "de": "Unsere Lieblingsmomente" },
+    "momentsTitle": { "en": "Favorite", "it": "Momenti", "de": "Lieblings" },
+    "momentsTitleAccent": { "en": "Moments", "it": "Preferiti", "de": "Momente" },
+    "rulesLabel": { "en": "House Guidelines", "it": "Regole della Casa", "de": "Hausregeln" },
+    "rulesTitle": { "en": "Comfort & ", "it": "Comfort & ", "de": "Komfort & " },
+    "rulesTitleAccent": { "en": "Respect", "it": "Rispetto", "de": "Respekt" },
+    "rulesIntro": { "en": "To help preserve the comfort, atmosphere and quality of the property for all guests, we kindly ask you to take note of the following guidelines during your stay.", "it": "Per aiutare a preservare il comfort, l'atmosfera e la qualità della proprietà per tutti gli ospiti, ti chiediamo di prendere nota delle seguenti regole durante il soggiorno.", "de": "Um Komfort, Atmosphäre und Qualität der Unterkunft für alle Gäste zu bewahren, bitten wir Sie freundlich, die folgenden Richtlinien während Ihres Aufenthalts zu beachten." },
+    "localLabel": { "en": "Local Recommendations", "it": "Consigli Locali", "de": "Lokale Empfehlungen" },
+    "localTitle": { "en": "Discover", "it": "Scopri", "de": "Entdecken Sie" },
+    "localTitleAccent": { "en": "Tuscany", "it": "la Toscana", "de": "die Toskana" },
+    "localIntro": { "en": "Our personal recommendations for the finest experiences around the Florence countryside.", "it": "I nostri consigli personali per le migliori esperienze nella campagna fiorentina.", "de": "Unsere persönlichen Empfehlungen für die schönsten Erlebnisse rund um die Florentiner Landschaft." },
+    "electricityLabel": { "en": "Electricity", "it": "Elettricità", "de": "Stromversorgung" },
+    "electricityTitle": { "en": "Backup", "it": "Sistema di", "de": "Notstrom-" },
+    "electricityTitleAccent": { "en": "Power", "it": "Emergenza", "de": "Versorgung" },
+    "electricityText": { "en": "The property is equipped with backup power systems that allow continued operation of the refrigerator and entrance gate for over 24 hours in the event of a temporary power interruption. Both internal and external electrical panels are available if needed. Please contact us for assistance at any time.", "it": "La proprietà è dotata di sistemi di alimentazione di backup che consentono il funzionamento continuo del frigorifero e del cancello d'ingresso per oltre 24 ore in caso di interruzione temporanea di corrente. I quadri elettrici interni ed esterni sono disponibili se necessario. Contattaci in qualsiasi momento per assistenza.", "de": "Das Anwesen ist mit Notstromsystemen ausgestattet, die den durchgehenden Betrieb von Kühlschrank und Eingangstor für über 24 Stunden bei einer vorübergehenden Stromunterbrechung ermöglichen. Innere und äußere Schaltschränke sind bei Bedarf verfügbar. Kontaktieren Sie uns jederzeit für Unterstützung." },
+    "assistanceTitle": { "en": "Need Assistance?", "it": "Hai Bisogno di Aiuto?", "de": "Brauchen Sie Hilfe?" },
+    "assistanceText": { "en": "For any need during your stay, we are always available and happy to assist you.", "it": "Per qualsiasi necessità durante il soggiorno, siamo sempre disponibili e felici di assisterti.", "de": "Bei jedem Bedarf während Ihres Aufenthalts sind wir immer für Sie da und unterstützen Sie gerne." },
+    "callUs": { "en": "Call Us", "it": "Chiamaci", "de": "Anrufen" },
+    "footerTagline": { "en": "Designed for quiet living, slow moments and unforgettable sunsets in the Florence countryside.", "it": "Pensata per la vita tranquilla, momenti lenti e tramonti indimenticabili nella campagna fiorentina.", "de": "Geschaffen für ruhiges Leben, langsame Momente und unvergessliche Sonnenuntergänge in der Florentiner Landschaft." },
+    "footerLocation": { "en": "Florence Countryside, Tuscany", "it": "Campagna Fiorentina, Toscana", "de": "Florentiner Landschaft, Toskana" },
+    "footerRights": { "en": "All rights reserved.", "it": "Tutti i diritti riservati.", "de": "Alle Rechte vorbehalten." }
+  },
+  "houseInfo": [
+    {
+      "icon": "clock",
+      "title": { "en": "Check-in & Check-out", "it": "Check-in & Check-out", "de": "Check-in & Check-out" },
+      "items": [
+        { "label": { "en": "Check-in", "it": "Check-in", "de": "Check-in" }, "value": { "en": "From 16:00", "it": "Dalle 16:00", "de": "Ab 16:00" } },
+        { "label": { "en": "Check-out", "it": "Check-out", "de": "Check-out" }, "value": { "en": "By 10:00", "it": "Entro le 10:00", "de": "Bis 10:00" } }
+      ]
+    },
+    {
+      "icon": "wifi",
+      "title": { "en": "Wi-Fi", "it": "Wi-Fi", "de": "WLAN" },
+      "items": [
+        { "label": { "en": "Network", "it": "Rete", "de": "Netzwerk" }, "value": { "en": "dimora_del_tramonto", "it": "dimora_del_tramonto", "de": "dimora_del_tramonto" } },
+        { "label": { "en": "Password", "it": "Password", "de": "Passwort" }, "value": { "en": "Available on arrival", "it": "Fornita all'arrivo", "de": "Bei Ankunft erhältlich" } }
+      ]
+    },
+    {
+      "icon": "car",
+      "title": { "en": "Parking & Gate Access", "it": "Parcheggio & Cancello", "de": "Parken & Toröffnung" },
+      "description": { "en": "The entrance gate opens externally. Private parking is available inside the property. Please avoid parking outside the gate.", "it": "Il cancello d'ingresso si apre verso l'esterno. Il parcheggio privato è disponibile all'interno della proprietà. Si prega di evitare di parcheggiare fuori dal cancello.", "de": "Das Eingangstor öffnet nach außen. Private Parkplätze sind im Inneren der Anlage verfügbar. Bitte parken Sie nicht außerhalb des Tors." }
+    },
+    {
+      "icon": "snowflake",
+      "title": { "en": "Air Conditioning & Heating", "it": "Aria Condizionata & Riscaldamento", "de": "Klimaanlage & Heizung" },
+      "description": { "en": "The rooms are equipped with independent air conditioning and heating. Please turn off AC and heating when leaving the house.", "it": "Le stanze sono dotate di aria condizionata e riscaldamento indipendenti. Si prega di spegnere AC e riscaldamento quando si lascia la casa.", "de": "Die Räume sind mit unabhängiger Klimaanlage und Heizung ausgestattet. Bitte schalten Sie AC und Heizung aus, wenn Sie das Haus verlassen." }
+    },
+    {
+      "icon": "utensils",
+      "title": { "en": "Kitchen", "it": "Cucina", "de": "Küche" },
+      "description": { "en": "Fully equipped with appliances, cookware and tableware. Coffee machine, kettle, toaster, dishwasher, oven, fridge/freezer and wine glasses are available. A selection of coffee, tea, olive oil, salt, sugar and spices is provided. Tap water is safe to drink.", "it": "Completamente attrezzata con elettrodomestici, pentole e stoviglie. Sono disponibili macchina del caffè, bollitore, tostapane, lavastoviglie, forno, frigorifero/congelatore e bicchieri da vino. Sono forniti caffè, tè, olio d'oliva, sale, zucchero e spezie. L'acqua del rubinetto è potabile.", "de": "Voll ausgestattet mit Geräten, Kochgeschirr und Geschirr. Kaffeemaschine, Wasserkocher, Toaster, Geschirrspüler, Ofen, Kühl-/Gefrierschrank und Weingläser sind vorhanden. Eine Auswahl an Kaffee, Tee, Olivenöl, Salz, Zucker und Gewürzen wird bereitgestellt. Leitungswasser ist trinkbar." }
+    },
+    {
+      "icon": "washer",
+      "title": { "en": "Laundry Area", "it": "Lavanderia", "de": "Waschbereich" },
+      "description": { "en": "The column unit in the kitchen includes both a washing machine and dryer, along with detergents for guest use. After use, please leave the doors open to allow appliances to dry properly. A drying rack is available in the storage room.", "it": "La colonna in cucina include lavatrice e asciugatrice, con detersivi per gli ospiti. Dopo l'uso, si prega di lasciare gli sportelli aperti per asciugare correttamente. Uno stendibiancheria è disponibile nel ripostiglio.", "de": "Die Säule in der Küche enthält Waschmaschine und Trockner, sowie Waschmittel für die Gäste. Nach Gebrauch bitte die Türen offen lassen, damit die Geräte trocknen können. Ein Wäscheständer befindet sich im Abstellraum." }
+    },
+    {
+      "icon": "bed",
+      "title": { "en": "Bedrooms & Comfort", "it": "Camere & Comfort", "de": "Schlafzimmer & Komfort" },
+      "description": { "en": "Designed for a calm and relaxing atmosphere. Additional pillows and blankets are available inside the wardrobes. Baby cot, high chair and selected child essentials can be arranged upon request before arrival.", "it": "Pensate per un'atmosfera calma e rilassante. Cuscini e coperte aggiuntivi sono disponibili negli armadi. Lettino, seggiolone e accessori per bambini possono essere organizzati su richiesta prima dell'arrivo.", "de": "Gestaltet für eine ruhige und entspannende Atmosphäre. Zusätzliche Kissen und Decken befinden sich in den Schränken. Babybett, Hochstuhl und ausgewählte Kinderessentials können auf Anfrage vor der Ankunft arrangiert werden." }
+    }
+  ],
+  "outdoor": [
+    {
+      "icon": "wine",
+      "image": "/images/slide4.jpg",
+      "title": { "en": "Outdoor Lounge & Dining Terrace", "it": "Salone & Terrazza Pranzo all'Aperto", "de": "Lounge & Essterrasse im Freien" },
+      "description": { "en": "A covered outdoor terrace offers a comfortable space for dining, relaxing and enjoying slow moments surrounded by nature. Features a steel outdoor kitchen, gas BBQ, dining area and lounge seating beneath the pergola — designed for relaxed breakfasts, sunset aperitivo and quiet evenings outdoors.", "it": "Una terrazza coperta offre uno spazio confortevole per cenare, rilassarsi e godersi momenti lenti circondati dalla natura. Dispone di cucina esterna in acciaio, barbecue a gas, zona pranzo e divani sotto la pergola — pensata per colazioni rilassate, aperitivi al tramonto e serate tranquille all'aperto.", "de": "Eine überdachte Terrasse bietet einen komfortablen Raum zum Essen, Entspannen und Genießen langsamer Momente inmitten der Natur. Mit Edelstahl-Außenküche, Gasgrill, Essbereich und Lounge unter der Pergola." }
+    },
+    {
+      "icon": "wheat",
+      "image": "/images/slide2.jpg",
+      "title": { "en": "Panoramic Garden & Sunset View", "it": "Giardino Panoramico & Vista Tramonto", "de": "Panoramagarten & Sonnenuntergangsblick" },
+      "description": { "en": "The garden opens onto wide views of the rolling Tuscan countryside, creating a peaceful setting to relax and enjoy the changing light throughout the day. Designed for quiet moments, sunset aperitivo and slow evenings surrounded by nature.", "it": "Il giardino si apre su ampie vedute della dolce campagna toscana, creando una cornice serena per rilassarsi e godersi la luce che cambia durante la giornata. Pensato per momenti tranquilli, aperitivi al tramonto e serate lente nella natura.", "de": "Der Garten öffnet sich auf weite Blicke über die hügelige toskanische Landschaft und schafft eine friedliche Kulisse zum Entspannen und Genießen des wechselnden Lichts." }
+    },
+    {
+      "icon": "waves",
+      "image": "/images/slide3.jpg",
+      "title": { "en": "Mini Pool & Wellness Area", "it": "Mini Piscina & Area Wellness", "de": "Mini-Pool & Wellnessbereich" },
+      "description": { "en": "The heated mini pool features hydromassage and ambient lighting — an inviting setting for sunny afternoons, sunset aperitivo and peaceful evenings outdoors. Pool towels are available. For safety, please avoid using glass directly around the pool area.", "it": "La mini piscina riscaldata dispone di idromassaggio e illuminazione d'ambiente — un'ambientazione invitante per pomeriggi soleggiati, aperitivi al tramonto e serate tranquille all'aperto. Asciugamani piscina disponibili. Per sicurezza, si prega di evitare l'uso di vetro nell'area piscina.", "de": "Der beheizte Mini-Pool bietet Hydromassage und Ambientebeleuchtung — eine einladende Kulisse für sonnige Nachmittage und friedliche Abende. Poolhandtücher sind verfügbar. Aus Sicherheitsgründen vermeiden Sie bitte Glas am Pool." }
+    }
+  ],
+  "favoriteMoments": [
+    { "icon": "sunset", "text": { "en": "Sunset aperitivo by the mini pool", "it": "Aperitivo al tramonto vicino alla mini piscina", "de": "Sonnenuntergangs-Aperitivo am Mini-Pool" } },
+    { "icon": "croissant", "text": { "en": "Slow breakfasts beneath the pergola", "it": "Colazioni lente sotto la pergola", "de": "Langsame Frühstücke unter der Pergola" } },
+    { "icon": "moon", "text": { "en": "Quiet evenings surrounded by the hills", "it": "Serate tranquille circondati dalle colline", "de": "Ruhige Abende umgeben von Hügeln" } },
+    { "icon": "coffee", "text": { "en": "Morning coffee overlooking the countryside", "it": "Caffè del mattino con vista sulla campagna", "de": "Morgenkaffee mit Blick auf die Landschaft" } }
+  ],
+  "rules": [
+    {
+      "icon": "volumeOff",
+      "title": { "en": "Atmosphere & Quiet Hours", "it": "Atmosfera & Ore di Silenzio", "de": "Atmosphäre & Ruhezeiten" },
+      "text": { "en": "Parties and events are not permitted inside the property. Please help us preserve the peaceful atmosphere of the house, especially during evening hours.", "it": "Feste ed eventi non sono consentiti all'interno della proprietà. Aiutaci a preservare l'atmosfera tranquilla della casa, specialmente nelle ore serali.", "de": "Partys und Veranstaltungen sind im Inneren des Anwesens nicht gestattet. Bitte helfen Sie uns, die friedliche Atmosphäre zu bewahren, besonders abends." }
+    },
+    {
+      "icon": "shield",
+      "title": { "en": "Shutters & Security", "it": "Tapparelle & Sicurezza", "de": "Rollläden & Sicherheit" },
+      "text": { "en": "For added security, privacy and comfort, please close the ground floor shutters when leaving the property or during evening hours.", "it": "Per maggiore sicurezza, privacy e comfort, chiudere le tapparelle del piano terra quando si lascia la proprietà o durante le ore serali.", "de": "Für mehr Sicherheit, Privatsphäre und Komfort schließen Sie bitte die Rollläden im Erdgeschoss beim Verlassen oder am Abend." }
+    },
+    {
+      "icon": "bug",
+      "title": { "en": "Mosquito Screens", "it": "Zanzariere", "de": "Mückennetze" },
+      "text": { "en": "All windows and French doors are equipped with mosquito screens. We kindly ask guests to use them with care.", "it": "Tutte le finestre e le porte-finestre sono dotate di zanzariere. Si prega di utilizzarle con cura.", "de": "Alle Fenster und Französischen Türen sind mit Mückennetzen ausgestattet. Bitte mit Sorgfalt verwenden." }
+    },
+    {
+      "icon": "baby",
+      "title": { "en": "Children", "it": "Bambini", "de": "Kinder" },
+      "text": { "en": "Children must always be supervised by adults in the mini pool and outdoor kitchen areas.", "it": "I bambini devono essere sempre sorvegliati dagli adulti nelle aree della mini piscina e della cucina esterna.", "de": "Kinder müssen im Bereich des Mini-Pools und der Außenküche stets von Erwachsenen beaufsichtigt werden." }
+    },
+    {
+      "icon": "flame",
+      "title": { "en": "BBQ & Outdoor Kitchen", "it": "BBQ & Cucina Esterna", "de": "BBQ & Außenküche" },
+      "text": { "en": "Please switch off the BBQ and outdoor cooking equipment after use, and keep them clean and covered.", "it": "Spegnere il BBQ e le attrezzature da cucina esterne dopo l'uso e mantenerle pulite e coperte.", "de": "Bitte schalten Sie BBQ und Außenkochgeräte nach Gebrauch aus und halten Sie sie sauber und abgedeckt." }
+    },
+    {
+      "icon": "sparkles",
+      "title": { "en": "Housekeeping & Linen", "it": "Pulizia & Biancheria", "de": "Reinigung & Wäsche" },
+      "text": { "en": "For privacy and a more relaxed experience, daily housekeeping and linen changes are not included. Additional cleaning and linen change may be arranged upon request, subject to availability.", "it": "Per privacy ed esperienza più rilassata, pulizia giornaliera e cambio biancheria non sono inclusi. Servizio aggiuntivo e cambio biancheria possono essere organizzati su richiesta, soggetti a disponibilità.", "de": "Für Privatsphäre und ein entspannteres Erlebnis sind tägliche Reinigung und Wäschewechsel nicht inbegriffen. Zusätzliche Leistungen sind auf Anfrage und nach Verfügbarkeit verfügbar." }
+    },
+    {
+      "icon": "paw",
+      "title": { "en": "Pets", "it": "Animali Domestici", "de": "Haustiere" },
+      "text": { "en": "Please note that pets are not permitted inside the property.", "it": "Si prega di notare che gli animali domestici non sono ammessi all'interno della proprietà.", "de": "Bitte beachten Sie, dass Haustiere innerhalb des Anwesens nicht erlaubt sind." }
+    },
+    {
+      "icon": "noSmoking",
+      "title": { "en": "Smoking Policy", "it": "Politica sul Fumo", "de": "Raucherregelung" },
+      "text": { "en": "Smoking is not permitted inside the property.", "it": "Non è consentito fumare all'interno della proprietà.", "de": "Rauchen ist innerhalb des Anwesens nicht gestattet." }
+    }
+  ],
+  "localRecs": [
+    {
+      "icon": "wine",
+      "title": { "en": "Wine Experiences", "it": "Esperienze Vinicole", "de": "Weinerlebnisse" },
+      "places": [
+        { "name": "Antinori nel Chianti Classico", "note": { "en": "Iconic winery — book a guided tour", "it": "Cantina iconica — prenota un tour guidato", "de": "Ikonisches Weingut — Führung buchen" } },
+        { "name": "Castello di Brolio", "note": { "en": "Where Chianti was born — 1872", "it": "Dove è nato il Chianti — 1872", "de": "Wo der Chianti geboren wurde — 1872" } },
+        { "name": "Fontodi (Panzano)", "note": { "en": "Biodynamic Sangiovese excellence", "it": "Eccellenza biodinamica del Sangiovese", "de": "Biodynamische Sangiovese-Exzellenz" } }
+      ]
+    },
+    {
+      "icon": "utensilsCrossed",
+      "title": { "en": "Restaurants", "it": "Ristoranti", "de": "Restaurants" },
+      "places": [
+        { "name": "Osteria di Passignano", "note": { "en": "Michelin star in an 11th-century abbey", "it": "Stella Michelin in un'abbazia dell'XI secolo", "de": "Michelin-Stern in einer Abtei aus dem 11. Jh." } },
+        { "name": "Antica Macelleria Cecchini", "note": { "en": "The legendary butcher of Panzano", "it": "Il leggendario macellaio di Panzano", "de": "Der legendäre Metzger von Panzano" } },
+        { "name": "Ristoro di Lamole", "note": { "en": "Terrace with vineyard view", "it": "Terrazza con vista sui vigneti", "de": "Terrasse mit Weinbergblick" } }
+      ]
+    },
+    {
+      "icon": "coffee",
+      "title": { "en": "Breakfast & Cafés", "it": "Colazione & Caffè", "de": "Frühstück & Cafés" },
+      "places": [
+        { "name": "Caffè Lietta", "note": { "en": "Local favorite for cornetti and espresso", "it": "Preferito locale per cornetti ed espresso", "de": "Lokaler Favorit für Cornetti und Espresso" } },
+        { "name": "Forno Pasticceria", "note": { "en": "Fresh pastries every morning", "it": "Pasticceria fresca ogni mattina", "de": "Frische Backwaren jeden Morgen" } }
+      ]
+    },
+    {
+      "icon": "cart",
+      "title": { "en": "Grocery Store", "it": "Negozio Alimentare", "de": "Lebensmittelgeschäft" },
+      "places": [
+        { "name": "Conad / Coop", "note": { "en": "Full-size supermarkets nearby", "it": "Supermercati completi nelle vicinanze", "de": "Vollwertige Supermärkte in der Nähe" } },
+        { "name": "Local Alimentari", "note": { "en": "For artisan cheese, salumi, bread", "it": "Per formaggi artigianali, salumi, pane", "de": "Für handwerklichen Käse, Salami, Brot" } }
+      ]
+    },
+    {
+      "icon": "pill",
+      "title": { "en": "Pharmacy", "it": "Farmacia", "de": "Apotheke" },
+      "places": [
+        { "name": "Farmacia Comunale", "note": { "en": "Closest pharmacy — standard hours", "it": "Farmacia più vicina — orari standard", "de": "Nächste Apotheke — Standardzeiten" } },
+        { "name": "Emergency 24h", "note": { "en": "Rotating night service available", "it": "Servizio notturno a turno disponibile", "de": "Nachtdienst im Wechsel verfügbar" } }
+      ]
+    },
+    {
+      "icon": "landmark",
+      "title": { "en": "Florence & Nearby Villages", "it": "Firenze & Borghi Vicini", "de": "Florenz & Nahe Dörfer" },
+      "places": [
+        { "name": "Firenze", "note": { "en": "The Renaissance capital — Duomo, Uffizi, Ponte Vecchio", "it": "La capitale del Rinascimento — Duomo, Uffizi, Ponte Vecchio", "de": "Hauptstadt der Renaissance — Dom, Uffizien, Ponte Vecchio" } },
+        { "name": "Greve in Chianti", "note": { "en": "The heart of Chianti Classico", "it": "Il cuore del Chianti Classico", "de": "Das Herz des Chianti Classico" } },
+        { "name": "San Gimignano", "note": { "en": "Medieval towers, UNESCO heritage", "it": "Torri medievali, patrimonio UNESCO", "de": "Mittelalterliche Türme, UNESCO-Erbe" } },
+        { "name": "Siena", "note": { "en": "Piazza del Campo & the Palio", "it": "Piazza del Campo & il Palio", "de": "Piazza del Campo & der Palio" } }
+      ]
+    }
+  ]
+}

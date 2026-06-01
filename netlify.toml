@@ -1,0 +1,22 @@
+[build]
+  command = "npm run build"
+  publish = "build"
+  functions = "netlify/functions"
+
+# Pretty API URLs — /api/* → /.netlify/functions/*
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
+
+# SPA fallback — any unknown path serves index.html
+# (Required so /admin-tramonto-7k9x loads the React app instead of returning 404)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Bundle the seed content with functions so first-run has data
+[functions]
+  included_files = ["server/content.json"]
+  node_bundler = "esbuild"

@@ -4,7 +4,6 @@ import defaultContent from './defaultContent.json';
 import './Admin.css';
 
 const LANGS = ['en', 'it', 'de'];
-const LANG_LABELS = { en: 'English', it: 'Italiano', de: 'Deutsch' };
 
 const ICON_SUGGESTIONS = [
   'clock', 'wifi', 'car', 'snowflake', 'utensils', 'washer', 'bed',

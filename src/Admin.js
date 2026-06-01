@@ -181,7 +181,8 @@ function Editor({ token, onLogout }) {
       }
       if (!res.ok) {
         const data = await res.json().catch(() => ({}));
-        setError(data.error || 'Save failed');
+        const msg = data.detail ? `${data.error || 'Save failed'} — ${data.detail}` : (data.error || `Save failed (HTTP ${res.status})`);
+        setError(msg);
         setSaving(false);
         return;
       }
